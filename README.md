@@ -1,4 +1,4 @@
-# Projeto-LandPage_HTML-CSS
+# Projeto-LandingPage_HTML-CSS
 
 Site de Decoração 
 
